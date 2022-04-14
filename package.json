@@ -1,6 +1,6 @@
 {
   "name": "mark-haml",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Markdown + HAML in love 💕",
   "type": "module",
   "main": "index.mjs",
