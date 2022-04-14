@@ -1,0 +1,21 @@
+{
+  "name": "mark-haml",
+  "version": "0.0.0",
+  "description": "Markdown + HAML in love 💕",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/mark-haml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/mark-haml/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/mark-haml#readme"
+}
